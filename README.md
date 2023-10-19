@@ -44,7 +44,6 @@ Please use [Remix IDE](https://remix.ethereum.org/) to test the smart contracts.
 
 ![image](images/sendkai.png?raw=true "images/sendkai.png") 
 
-![image](images/sendkai.png?raw=true "images/sendkai.png") 
 
 After the transactions this is the summary data:
 
